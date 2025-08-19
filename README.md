@@ -1,6 +1,5 @@
 # TikTok Clone MERN Stack
 
-
 This project is a simplified TikTok‑like application built with the **MERN** stack (MongoDB, Express.js, React.js, and Node.js). It demonstrates how to build a full‑stack web application that allows users to upload short videos, view them in a feed, and like them.
 
 ## Features
